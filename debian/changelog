@@ -1,3 +1,9 @@
+cups-filters (1.11.6-3pardus1) onyedi; urgency=medium
+
+  * Add .drone.yml
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 12 Jul 2017 08:57:54 +0300
+
 cups-filters (1.11.6-3) unstable; urgency=medium
 
   [ Didier Raboud ]
