@@ -1,3 +1,9 @@
+cups-filters (1.11.6-3pardus2) onyedi; urgency=medium
+
+  * Change default-testpage-debian.svg for pardus
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 12 Jul 2017 09:41:23 +0300
+
 cups-filters (1.11.6-3pardus1) onyedi; urgency=medium
 
   * Add .drone.yml
